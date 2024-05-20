@@ -28,16 +28,4 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
-### Run the ChessPlayground
-- Move to ChessPlayGround dir
-```bash
-cd ChessPlayGround
-```
-- Install Requirements: Pygame
-```bash
-pip install pygame
-```
-- Run the Playground
-```bash
-python game_chess.py
-```
+
